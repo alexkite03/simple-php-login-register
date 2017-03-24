@@ -1,5 +1,5 @@
 # simple-php-login-register
-Login y registro en PHP
+Login and register in PHP
 
 
 # Need to change:
