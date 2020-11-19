@@ -14,7 +14,7 @@ $password = "password";
 ```
 $dbname = mysql_select_db("nombrebasededatos");
 ```
-# Important:
+# Important!
 
 **This code can be vulnerable.**
 
