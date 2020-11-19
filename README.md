@@ -18,7 +18,7 @@ $dbname = mysql_select_db("nombrebasededatos");
 
 **This code can be vulnerable.**
 
-1. Add security in 'login.php' whit:
+1. Add security in 'login.php' with:
 
 ```
   $user = mysql_real_escape_string($_POST['usuario']);
